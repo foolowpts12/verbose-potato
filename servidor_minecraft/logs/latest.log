@@ -1,0 +1,61 @@
+[16:22:24] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[16:22:27] [ServerMain/INFO]: Loaded 1461 recipes
+[16:22:27] [ServerMain/INFO]: Loaded 1574 advancements
+[16:22:27] [Server thread/INFO]: Starting minecraft server version 1.21.10
+[16:22:27] [Server thread/INFO]: Loading properties
+[16:22:27] [Server thread/INFO]: Default game type: SURVIVAL
+[16:22:27] [Server thread/INFO]: Generating keypair
+[16:22:27] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:22:27] [Server thread/INFO]: Using epoll channel type
+[16:22:27] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:22:27] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:22:27] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:22:27] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:22:27] [Server thread/INFO]: Preparing level "world"
+[16:22:27] [Server thread/INFO]: Loading 0 persistent chunks...
+[16:22:27] [Server thread/INFO]: Preparing spawn area: 100%
+[16:22:27] [Server thread/INFO]: Time elapsed: 14 ms
+[16:22:27] [Server thread/INFO]: Done (0.340s)! For help, type "help"
+[16:23:27] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[16:36:07] [Server thread/INFO]: KioikIluv[/127.67.147.37:41433] logged in with entity id 151 at (244.85139987454892, 63.796735600668704, -3171.4444055834915)
+[16:36:07] [Server thread/INFO]: KioikIluv joined the game
+[16:38:30] [Server thread/WARN]: KioikIluv moved wrongly!
+[16:38:47] [Server thread/INFO]: KioikIluv lost connection: Disconnected
+[16:38:47] [Server thread/INFO]: KioikIluv left the game
+[16:38:55] [Server thread/INFO]: KioikIluv[/127.67.147.37:44673] logged in with entity id 1074 at (192.65430936271915, 79.7531999805212, -3238.699999988079)
+[16:38:55] [Server thread/INFO]: Connection closed during protocol change
+[16:38:55] [Server thread/INFO]: KioikIluv joined the game
+[16:38:55] [Server thread/INFO]: KioikIluv lost connection: Disconnected
+[16:38:55] [Server thread/INFO]: KioikIluv left the game
+[16:39:03] [Server thread/INFO]: KioikIluv[/127.67.147.37:42467] logged in with entity id 1180 at (192.65430936271915, 79.7531999805212, -3238.699999988079)
+[16:39:03] [Server thread/INFO]: KioikIluv joined the game
+[16:39:19] [Server thread/INFO]: KioikIluv lost connection: Disconnected
+[16:39:19] [Server thread/INFO]: KioikIluv left the game
+[16:39:25] [Server thread/INFO]: KioikIluv[/127.67.147.37:53161] logged in with entity id 1523 at (192.30000001192093, 80.0, -3239.6616050739262)
+[16:39:25] [Server thread/INFO]: KioikIluv joined the game
+[16:59:01] [Server thread/INFO]: Villager cyx['Villager'/1537, l='ServerLevel[world]', x=215.07, y=63.19, z=-3183.29] died, message: 'Villager was slain by Zombie'
+[16:59:30] [Server thread/INFO]: Villager cyx['Farmer'/1466, l='ServerLevel[world]', x=218.70, y=63.00, z=-3187.70] died, message: 'Farmer was slain by Zombie'
+[17:06:02] [Server thread/INFO]: Villager cyx['Nitwit'/1462, l='ServerLevel[world]', x=218.42, y=63.19, z=-3184.72] died, message: 'Nitwit suffocated in a wall'
+[17:22:46] [Server thread/INFO]: KioikIluv has made the advancement [Cover Me with Diamonds]
+[17:24:25] [Server thread/INFO]: KioikIluv lost connection: You have been kicked from the server for stealing diamonds. You will be banned if you do it again.
+[17:24:25] [Server thread/INFO]: KioikIluv left the game
+[17:24:25] [Server thread/INFO]: Kicked KioikIluv: You have been kicked from the server for stealing diamonds. You will be banned if you do it again.
+[17:24:25] [Server thread/WARN]: handleDisconnection() called twice
+[17:24:31] [Server thread/INFO]: KioikIluv[/127.67.147.37:51947] logged in with entity id 11438 at (161.83834970683282, 65.0, -3161.3552227640057)
+[17:24:31] [Server thread/INFO]: KioikIluv joined the game
+[17:37:33] [Server thread/INFO]: KioikIluv lost connection: Disconnected
+[17:37:33] [Server thread/INFO]: KioikIluv left the game
+[17:37:36] [Server thread/INFO]: KioikIluv[/127.67.147.37:49065] logged in with entity id 14659 at (187.90075546106576, 85.0, -3238.450225688982)
+[17:37:36] [Server thread/INFO]: KioikIluv joined the game
+[18:24:11] [Server thread/INFO]: There are 1 of a max of 20 players online: KioikIluv
+[18:32:27] [Server thread/INFO]: KioikIluv has made the advancement [A Seedy Place]
+[21:02:47] [Server thread/INFO]: Villager cyx['Villager'/25153, l='ServerLevel[world]', x=199.16, y=63.19, z=-3231.25] died, message: 'Villager was slain by Zombie'
+[21:10:37] [Server thread/INFO]: KioikIluv lost connection: You logged in from another location
+[21:10:37] [Server thread/INFO]: KioikIluv left the game
+[21:10:38] [Server thread/INFO]: KioikIluv[/127.67.147.37:32881] logged in with entity id 60924 at (187.38577262906878, 79.0, -3244.300000011921)
+[21:10:38] [Server thread/INFO]: KioikIluv joined the game
+[21:16:58] [Server thread/INFO]: KioikIluv has made the advancement [Best Friends Forever]
+[21:23:54] [Server thread/WARN]: KioikIluv moved too quickly! -10.021878878929982,-0.49520087700592086,0.46465382595579285
+[21:26:26] [Server thread/INFO]: KioikIluv lost connection: Disconnected
+[21:26:26] [Server thread/INFO]: KioikIluv left the game
+[21:27:26] [Server thread/INFO]: Server empty for 60 seconds, pausing
